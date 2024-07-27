@@ -28,6 +28,9 @@ A vulnerable web application designed for pentesting and security training purpo
 3. **Open your web browser and navigate to** `http://localhost/vulnerable-website-down-checker`.
 4. **Enter the domain you want to check and click "Check if site down"**.
 
+## Blog 
+https://cybersandeep.hashnode.dev/out-of-band-oob-fuzzing-with-burp-suite
+
 ## Disclaimer ⚠️
 
 **WARNING:** This application is intentionally vulnerable and should only be used in a controlled environment for educational purposes. Do not deploy this application on production servers. The authors are not responsible for any misuse of this code.
