@@ -2,6 +2,8 @@
 
 A vulnerable web application designed for pentesting and security training purposes. This application includes intentional security flaws such as command injection and cross-site scripting (XSS).
 
+![image](https://github.com/user-attachments/assets/be3e776c-9ced-45b2-afe2-caef2001a9ef)
+
 ## Features ✨
 
 - **Intentionally vulnerable** to common web attacks
